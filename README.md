@@ -9,7 +9,7 @@ I'm Elhadi From France, and I do Symfony Backend Development.
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duncanidaho14&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **duncanidaho14/duncanidaho14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
