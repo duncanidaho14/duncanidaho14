@@ -19,6 +19,7 @@ Skills: Symfony Ecmascript6 React
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duncanidaho14)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
