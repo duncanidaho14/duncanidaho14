@@ -28,7 +28,6 @@ Skills: Symfony Ecmascript6 React
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=duncanidaho14)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duncanidaho14)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true)  
 
