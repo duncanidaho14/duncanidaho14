@@ -3,9 +3,6 @@
 #### Symfony Backend Development
 ![Symfony Backend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hi there 👋
-
-I'm Elhadi From France
 
 Skills: Symfony Ecmascript6 React
 
@@ -14,6 +11,10 @@ Skills: Symfony Ecmascript6 React
 - 👯 I’m looking to collaborate on Web Development 
 - 🤔 I’m looking for help with project on Symfony 
 - 💬 Ask me about Symfony 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=duncanidaho14&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
