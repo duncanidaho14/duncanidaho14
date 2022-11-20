@@ -32,7 +32,7 @@ Skills: Symfony Ecmascript6 React
 
   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duncanidaho14)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duncanidaho14&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/duncanidaho14)  
 
