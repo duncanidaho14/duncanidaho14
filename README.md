@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Elhadi
+### Hi there 👋, my name is Elhadi Beddarem
 #### Symfony Backend Development
 ![Symfony Backend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
