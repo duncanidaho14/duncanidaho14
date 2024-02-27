@@ -30,13 +30,13 @@ Skills: Symfony Ecmascript6 React
 [![trophy](https://github-profile-trophy.vercel.app/?username=duncanidaho14)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-  
+## Github Activity Graph 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duncanidaho14&theme=radical)  
 
 ## My contributions and active projects
 
-[![Symfony](https://github-readme-stats.vercel.app/api/pin/?username=duncanidaho14&repo=Playiad&show_owner=true)](https://github.com/IAD-INTERNATIONAL/Playiad)
+[![Symfony](https://github-readme-stats.vercel.app/api/pin/?username=duncanidaho14&repo=Playiad&show_owner=false)](https://github.com/IAD-INTERNATIONAL/Playiad)
 
 ![GitHub metrics](https://metrics.lecoq.io/duncanidaho14)  
 
