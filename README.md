@@ -32,17 +32,17 @@ Skills: Symfony Ecmascript6 React
 
 ## Github Activity Graph 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duncanidaho14&theme=radical)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duncanidaho14&theme=radical)  
 
 ## My contributions and active projects
 
 [![Symfony](https://github-readme-stats.vercel.app/api/pin/?username=duncanidaho14&repo=Playiad&show_owner=false)](https://github.com/IAD-INTERNATIONAL/Playiad)
 
-![GitHub metrics](https://metrics.lecoq.io/duncanidaho14)  
+[![GitHub metrics](https://metrics.lecoq.io/duncanidaho14)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=duncanidaho14)  
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=duncanidaho14)  
 
-![Profile views](https://gpvc.arturio.dev/duncanidaho14)  
+[![Profile views](https://gpvc.arturio.dev/duncanidaho14)  
 
 <!--
 **duncanidaho14/duncanidaho14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
